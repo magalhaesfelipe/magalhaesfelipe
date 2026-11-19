@@ -7,6 +7,6 @@
     <a href="https://felip.me/magalhaesfelipe">github</a> .
     <a href="https://discord.com/users/va.05">discord</a> .
     <a href="https://elitwallpapers.com">wallpapers</a> .
-    <a href="https://tonegrids.com">habit-trackers</a>
+    <a href="https://maple.com">trackers</a>
   </samp>
 </p>
